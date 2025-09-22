@@ -1,0 +1,35 @@
+  .css-form input[type="text"],
+  .simple-form input[type="date"] {
+  background-color: #7FFFD4;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .css-form input[type="submit"] {
+  
+    margin: 10px 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  
+
+  .css-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .css-table th,
+  .css-table td {
+  background-color: #7FFFD4;
+  color: black;
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+
+  .css-table th {
+    background-color: blue;
+    color: white;
+  }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BookMVC/java classes"/>
+	<classpathentry kind="src" path="BookMVC/src/main/java"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="BookMVC/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="BookMVC/build/classes"/>
+</classpath>
